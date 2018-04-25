@@ -1,5 +1,5 @@
 # Shane
-A simple, easy to use, and ready-out-of-the-box IRC bouncer written in Java
+A simple, lightweight, easy to use, and ready-out-of-the-box IRC bouncer written in Java
 
 # How to use
 Download the latest release [here](https://github.com/johnnyapol/Shane/releases) (or compile it yourself, see below!)
@@ -28,3 +28,7 @@ Shane is licensed under the Apache 2.0 license. Any contributions / feature requ
 
 # Compiling
 Shane has no external dependencies, so compiling can easily be done by importing the repository in eclipse or just using javac on the .java files.
+
+# Special Thanks
+* My friend Shane McKeon, for letting me use his name for this project (thanks Shane!)
+* The RPISEC team for being interested enough in this that I decided to work to make it open source and usable for people other than myself.
